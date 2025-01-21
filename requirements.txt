@@ -1,0 +1,2 @@
+npm i react-router-dom  localforage  sort-by
+install tailwind css and react using vite
